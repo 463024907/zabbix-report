@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T02:07:48.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="K9cooggXpCtMT8cHEOug" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T02:09:40.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="OFbiPsptyYEjGf8FcZqW" version="15.9.4" type="github">
   <diagram id="uuI894Q_dZWisV19ayU7" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kqC6SkzN8LWWIlsdUToC-28" value="&lt;h1&gt;社区&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="250" width="210" height="50" as="geometry" />
+          <mxGeometry x="20" y="240" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqC6SkzN8LWWIlsdUToC-30" value="业务告警列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="550" width="340" height="160" as="geometry" />
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="BN9lfCe1FpGiWTZNb-uB-1" value="&lt;h1&gt;两商&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9lfCe1FpGiWTZNb-uB-3" value="活动热度统计（评论、点赞、收藏、浏览）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BN9lfCe1FpGiWTZNb-uB-4" value="活动参与人数统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
