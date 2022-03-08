@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:39:41.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FIclLv0_GabxuP69g09M" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:45:35.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Yxl9fvq-1V1C6aZ0KLls" version="16.6.5" type="github">
   <diagram id="55woNCbbdrsVMhXk1Lkt" name="第 1 页">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="120" width="1300" height="830" as="geometry" />
+          <mxGeometry x="-960" y="120" width="1300" height="820" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-947" y="140" width="157" height="770" as="geometry" />
@@ -14,12 +14,12 @@
           <mxGeometry x="-947" y="340" width="147" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-5" value="未恢复告警数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-750" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-6" value="今日告警总数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0lJpmbsVH_8i2ZDXafNL-8" value="自动恢复告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0lJpmbsVH_8i2ZDXafNL-8" value="今日自动恢复告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-9" value="时间选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,19 +50,19 @@
           <mxGeometry x="-380" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-21" value="AWS X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="-260" y="410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-22" value="&lt;font style=&quot;font-size: 12px&quot;&gt;告警来源分布&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-420" y="395" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-23" value="SKYWALKING&amp;nbsp; X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="-260" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-24" value="PROMETHEUS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="-260" y="500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="390" width="290" height="195" as="geometry" />
+          <mxGeometry x="-130" y="390" width="310" height="195" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-26" value="&lt;span style=&quot;font-size: 12px&quot;&gt;站点分布&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-120" y="400" width="100" height="40" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="70" y="455" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-30" value="今日工单数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="-430" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-31" value="未关闭工单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590" y="280" width="120" height="60" as="geometry" />
@@ -92,10 +92,10 @@
           <mxGeometry x="-740" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="672.5" width="290" height="195" as="geometry" />
+          <mxGeometry x="-110" y="672.5" width="290" height="195" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-36" value="告警发生趋势" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="160" width="290" height="195" as="geometry" />
@@ -114,6 +114,12 @@
         </mxCell>
         <mxCell id="0lJpmbsVH_8i2ZDXafNL-44" value="工单详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="230" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0lJpmbsVH_8i2ZDXafNL-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="672.5" width="290" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="0lJpmbsVH_8i2ZDXafNL-46" value="告警持续时间TOP10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
