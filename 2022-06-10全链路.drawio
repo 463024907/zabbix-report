@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T17:34:33.042Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="E26bjoML3hjzG5oSJSbn" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T17:37:27.442Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="BJ-hQN58l6aknIBiWmcd" version="20.0.1" type="github">
   <diagram id="zfn3NuKyWQ2x2j2dKrCw" name="第 1 页">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
         <mxCell id="7d7tqYi4WP06SzkIWCzc-375" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7d7tqYi4WP06SzkIWCzc-193" source="7d7tqYi4WP06SzkIWCzc-359" target="7d7tqYi4WP06SzkIWCzc-361">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7d7tqYi4WP06SzkIWCzc-383" value="延迟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7d7tqYi4WP06SzkIWCzc-375">
+        <mxCell id="7d7tqYi4WP06SzkIWCzc-383" value="延迟，高延迟标红色" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7d7tqYi4WP06SzkIWCzc-375">
           <mxGeometry x="-0.2348" y="-31" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -609,7 +609,7 @@
           <mxGeometry x="1180" y="600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7d7tqYi4WP06SzkIWCzc-400" value="点击跳转服务详情页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7d7tqYi4WP06SzkIWCzc-193">
-          <mxGeometry x="717" y="10" width="190" height="60" as="geometry" />
+          <mxGeometry x="717" y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7d7tqYi4WP06SzkIWCzc-402" value="" style="swimlane;horizontal=0;startSize=130;" vertex="1" parent="1">
           <mxGeometry x="1610" y="730" width="1630" height="610" as="geometry" />
